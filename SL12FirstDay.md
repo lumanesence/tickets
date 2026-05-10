@@ -4,5 +4,4 @@
 * Illford - Gants Hill Station
 * Between 5AM and 6PM GMT
 
-> [!NOTE]
-> This event is free!
+**This event is free!**
